@@ -1,5 +1,5 @@
 # Creating a book store app using OOP
-
+<!-- ... -->
 You should have the following features in the bookly app:
 
 - User can add a new book by adding the name, author and url of the image
